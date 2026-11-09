@@ -1,0 +1,181 @@
+"TimeCreated","Id","Message"
+"11/9/2026 11:58:30 AM","11","File created:
+RuleName: -
+UtcTime: 2026-11-09 06:58:30.153
+ProcessGuid: {1ed9337d-6a63-6af1-5704-000000000700}
+ProcessId: 2516
+Image: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+TargetFilename: C:\Users\hp\Documents\Endpoint-Security-Monitoring\02-File-Integrity-Monitoring\rustinel-yara-test.ps1
+CreationUtcTime: 2026-11-09 06:58:30.153
+User: UROOJ\hp"
+"11/9/2026 11:43:35 AM","11","File created:
+RuleName: -
+UtcTime: 2026-11-09 06:43:35.003
+ProcessGuid: {1ed9337d-6b96-6af1-8c04-000000000700}
+ProcessId: 17864
+Image: C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe
+TargetFilename: C:\Users\hp\AppData\Local\Temp\__PSScriptPolicyTest_eoft5e4q.5ta.ps1
+CreationUtcTime: 2026-11-09 06:43:35.003
+User: UROOJ\hp"
+"11/9/2026 11:43:34 AM","11","File created:
+RuleName: -
+UtcTime: 2026-11-09 06:43:34.275
+ProcessGuid: {1ed9337d-6b95-6af1-8504-000000000700}
+ProcessId: 2324
+Image: C:\WINDOWS\System32\WindowsPowerShell\v1.0\powershell.exe
+TargetFilename: C:\Users\hp\AppData\Local\Temp\__PSScriptPolicyTest_u4wwgrmi.ye1.ps1
+CreationUtcTime: 2026-11-09 06:43:34.275
+User: UROOJ\hp"
+"11/9/2026 11:43:33 AM","11","File created:
+RuleName: -
+UtcTime: 2026-11-09 06:43:33.145
+ProcessGuid: {1ed9337d-6b95-6af1-8504-000000000700}
+ProcessId: 2324
+Image: C:\WINDOWS\System32\WindowsPowerShell\v1.0\powershell.exe
+TargetFilename: C:\Users\hp\AppData\Local\Temp\__PSScriptPolicyTest_gnv5siae.jis.ps1
+CreationUtcTime: 2026-11-09 06:43:33.145
+User: UROOJ\hp"
+"11/9/2026 11:42:53 AM","11","File created:
+RuleName: -
+UtcTime: 2026-11-09 06:42:53.405
+ProcessGuid: {1ed9337d-6b6c-6af1-7504-000000000700}
+ProcessId: 16376
+Image: C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe
+TargetFilename: C:\Users\hp\AppData\Local\Temp\__PSScriptPolicyTest_ngkfuuzp.w25.ps1
+CreationUtcTime: 2026-11-09 06:42:53.405
+User: UROOJ\hp"
+"11/9/2026 11:42:52 AM","11","File created:
+RuleName: -
+UtcTime: 2026-11-09 06:42:52.441
+ProcessGuid: {1ed9337d-6b6c-6af1-7504-000000000700}
+ProcessId: 16376
+Image: C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe
+TargetFilename: C:\Users\hp\AppData\Local\Temp\__PSScriptPolicyTest_ltkwvjug.xlq.ps1
+CreationUtcTime: 2026-11-09 06:42:52.441
+User: UROOJ\hp"
+"11/9/2026 11:42:50 AM","11","File created:
+RuleName: -
+UtcTime: 2026-11-09 06:42:50.722
+ProcessGuid: {1ed9337d-6b6a-6af1-7204-000000000700}
+ProcessId: 3024
+Image: C:\WINDOWS\System32\WindowsPowerShell\v1.0\powershell.exe
+TargetFilename: C:\Users\hp\AppData\Local\Temp\__PSScriptPolicyTest_0can3sch.5wf.ps1
+CreationUtcTime: 2026-11-09 06:42:50.719
+User: UROOJ\hp"
+"11/9/2026 11:42:49 AM","11","File created:
+RuleName: -
+UtcTime: 2026-11-09 06:42:49.791
+ProcessGuid: {1ed9337d-6b69-6af1-6f04-000000000700}
+ProcessId: 18292
+Image: C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe
+TargetFilename: C:\Users\hp\AppData\Local\Temp\__PSScriptPolicyTest_cajfgrf4.cai.ps1
+CreationUtcTime: 2026-11-09 06:42:49.789
+User: UROOJ\hp"
+"11/9/2026 11:40:11 AM","11","File created:
+RuleName: DLL
+UtcTime: 2026-11-09 06:40:11.704
+ProcessGuid: {1ed9337d-6a3f-6af1-2004-000000000700}
+ProcessId: 7268
+Image: C:\Users\hp\AppData\Local\Programs\Microsoft VS Code\Code.exe
+TargetFilename: C:\Users\hp\.vscode\extensions\.8686c8a5-3472-4911-bf79-428a95a782d0\jre\25.0.5-win32-x86_64\bin\server\jvm.dll
+CreationUtcTime: 2026-11-09 06:40:11.704
+User: UROOJ\hp"
+"11/9/2026 11:40:10 AM","11","File created:
+RuleName: DLL
+UtcTime: 2026-11-09 06:40:10.178
+ProcessGuid: {1ed9337d-6a3f-6af1-2004-000000000700}
+ProcessId: 7268
+Image: C:\Users\hp\AppData\Local\Programs\Microsoft VS Code\Code.exe
+TargetFilename: C:\Users\hp\.vscode\extensions\.8686c8a5-3472-4911-bf79-428a95a782d0\jre\25.0.5-win32-x86_64\bin\api-ms-win-core-console-l1-1-0.dll
+CreationUtcTime: 2026-11-09 06:40:10.178
+User: UROOJ\hp"
+"11/9/2026 11:40:10 AM","11","File created:
+RuleName: DLL
+UtcTime: 2026-11-09 06:40:10.178
+ProcessGuid: {1ed9337d-6a3f-6af1-2004-000000000700}
+ProcessId: 7268
+Image: C:\Users\hp\AppData\Local\Programs\Microsoft VS Code\Code.exe
+TargetFilename: C:\Users\hp\.vscode\extensions\.8686c8a5-3472-4911-bf79-428a95a782d0\jre\25.0.5-win32-x86_64\bin\api-ms-win-core-console-l1-2-0.dll
+CreationUtcTime: 2026-11-09 06:40:10.178
+User: UROOJ\hp"
+"11/9/2026 11:40:10 AM","11","File created:
+RuleName: DLL
+UtcTime: 2026-11-09 06:40:10.178
+ProcessGuid: {1ed9337d-6a3f-6af1-2004-000000000700}
+ProcessId: 7268
+Image: C:\Users\hp\AppData\Local\Programs\Microsoft VS Code\Code.exe
+TargetFilename: C:\Users\hp\.vscode\extensions\.8686c8a5-3472-4911-bf79-428a95a782d0\jre\25.0.5-win32-x86_64\bin\api-ms-win-core-datetime-l1-1-0.dll
+CreationUtcTime: 2026-11-09 06:40:10.178
+User: UROOJ\hp"
+"11/9/2026 11:40:10 AM","11","File created:
+RuleName: DLL
+UtcTime: 2026-11-09 06:40:10.172
+ProcessGuid: {1ed9337d-6a3f-6af1-2004-000000000700}
+ProcessId: 7268
+Image: C:\Users\hp\AppData\Local\Programs\Microsoft VS Code\Code.exe
+TargetFilename: C:\Users\hp\.vscode\extensions\.8686c8a5-3472-4911-bf79-428a95a782d0\jre\25.0.5-win32-x86_64\bin\api-ms-win-core-debug-l1-1-0.dll
+CreationUtcTime: 2026-11-09 06:40:10.172
+User: UROOJ\hp"
+"11/9/2026 11:40:10 AM","11","File created:
+RuleName: DLL
+UtcTime: 2026-11-09 06:40:10.165
+ProcessGuid: {1ed9337d-6a3f-6af1-2004-000000000700}
+ProcessId: 7268
+Image: C:\Users\hp\AppData\Local\Programs\Microsoft VS Code\Code.exe
+TargetFilename: C:\Users\hp\.vscode\extensions\.8686c8a5-3472-4911-bf79-428a95a782d0\jre\25.0.5-win32-x86_64\bin\api-ms-win-core-errorhandling-l1-1-0.dll
+CreationUtcTime: 2026-11-09 06:40:10.147
+User: UROOJ\hp"
+"11/9/2026 11:40:10 AM","11","File created:
+RuleName: DLL
+UtcTime: 2026-11-09 06:40:10.147
+ProcessGuid: {1ed9337d-6a3f-6af1-2004-000000000700}
+ProcessId: 7268
+Image: C:\Users\hp\AppData\Local\Programs\Microsoft VS Code\Code.exe
+TargetFilename: C:\Users\hp\.vscode\extensions\.8686c8a5-3472-4911-bf79-428a95a782d0\jre\25.0.5-win32-x86_64\bin\api-ms-win-core-fibers-l1-1-0.dll
+CreationUtcTime: 2026-11-09 06:40:10.147
+User: UROOJ\hp"
+"11/9/2026 11:40:10 AM","11","File created:
+RuleName: DLL
+UtcTime: 2026-11-09 06:40:10.145
+ProcessGuid: {1ed9337d-6a3f-6af1-2004-000000000700}
+ProcessId: 7268
+Image: C:\Users\hp\AppData\Local\Programs\Microsoft VS Code\Code.exe
+TargetFilename: C:\Users\hp\.vscode\extensions\.8686c8a5-3472-4911-bf79-428a95a782d0\jre\25.0.5-win32-x86_64\bin\api-ms-win-core-fibers-l1-1-1.dll
+CreationUtcTime: 2026-11-09 06:40:10.145
+User: UROOJ\hp"
+"11/9/2026 11:40:10 AM","11","File created:
+RuleName: DLL
+UtcTime: 2026-11-09 06:40:10.129
+ProcessGuid: {1ed9337d-6a3f-6af1-2004-000000000700}
+ProcessId: 7268
+Image: C:\Users\hp\AppData\Local\Programs\Microsoft VS Code\Code.exe
+TargetFilename: C:\Users\hp\.vscode\extensions\.8686c8a5-3472-4911-bf79-428a95a782d0\jre\25.0.5-win32-x86_64\bin\api-ms-win-core-file-l1-1-0.dll
+CreationUtcTime: 2026-11-09 06:40:10.129
+User: UROOJ\hp"
+"11/9/2026 11:40:10 AM","11","File created:
+RuleName: DLL
+UtcTime: 2026-11-09 06:40:10.129
+ProcessGuid: {1ed9337d-6a3f-6af1-2004-000000000700}
+ProcessId: 7268
+Image: C:\Users\hp\AppData\Local\Programs\Microsoft VS Code\Code.exe
+TargetFilename: C:\Users\hp\.vscode\extensions\.8686c8a5-3472-4911-bf79-428a95a782d0\jre\25.0.5-win32-x86_64\bin\api-ms-win-core-file-l1-2-0.dll
+CreationUtcTime: 2026-11-09 06:40:10.129
+User: UROOJ\hp"
+"11/9/2026 11:40:10 AM","11","File created:
+RuleName: DLL
+UtcTime: 2026-11-09 06:40:10.124
+ProcessGuid: {1ed9337d-6a3f-6af1-2004-000000000700}
+ProcessId: 7268
+Image: C:\Users\hp\AppData\Local\Programs\Microsoft VS Code\Code.exe
+TargetFilename: C:\Users\hp\.vscode\extensions\.8686c8a5-3472-4911-bf79-428a95a782d0\jre\25.0.5-win32-x86_64\bin\api-ms-win-core-file-l2-1-0.dll
+CreationUtcTime: 2026-11-09 06:40:10.124
+User: UROOJ\hp"
+"11/9/2026 11:40:10 AM","11","File created:
+RuleName: DLL
+UtcTime: 2026-11-09 06:40:10.113
+ProcessGuid: {1ed9337d-6a3f-6af1-2004-000000000700}
+ProcessId: 7268
+Image: C:\Users\hp\AppData\Local\Programs\Microsoft VS Code\Code.exe
+TargetFilename: C:\Users\hp\.vscode\extensions\.8686c8a5-3472-4911-bf79-428a95a782d0\jre\25.0.5-win32-x86_64\bin\api-ms-win-core-handle-l1-1-0.dll
+CreationUtcTime: 2026-11-09 06:40:10.113
+User: UROOJ\hp"
